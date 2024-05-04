@@ -9,13 +9,7 @@ This Credit Risk Assessment Framework is a Flask-based web application designed 
 - **Interpretability**: Includes explanations of predictions using LIME and SHAP to ensure transparency.
 - **User Interface**: Provides a clean and intuitive web interface for data input and result visualization.
 
-## Installation
-
-### Prerequisites
-- Python 3.6 or higher
-- pip and virtualenv
-
-### Setup
+### Setup the credit risk assessment framework
 1. **Clone the Repository**
 2. **Create and Activate Virtual Environment in MyApp folder**
    ```bash
