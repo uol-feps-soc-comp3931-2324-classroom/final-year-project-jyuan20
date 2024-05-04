@@ -21,9 +21,9 @@ This Credit Risk Assessment Framework is a Flask-based web application designed 
    ```bash
    python -m venv virtual
    virtual\Scripts\activate
-3. **Install Dependencies
+3. **Install Dependencies**
    ```bash
    pip install -r requirements.txt
-4. **Run the application
+4. **Run the application**
    ```bash
    python app.py
